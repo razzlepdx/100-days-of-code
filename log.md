@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+# Template
+### Day 0: May XX, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [link text](url)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: May 12, Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I want to go through the basic front-end projects on freeCodeCamp again, so today I cloned the example tribute page project. I'll be saving most small projects for 100 days of code in this same repo.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** It is good to practice with the HTML/CSS/Bootstrap I have been ignoring while studying JS. It looks like I could have used a lot more bootstrap and a lot less CSS when I compare my code to the original, so I will need to study more of that in the future.  Overall, I'm please with how this came out.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Tribute Page Clone](https://github.com/razzlepdx/100-days-of-code/tree/master/tribute-pages/tribute-clone)
+2. [fCC Example Page](https://codepen.io/freeCodeCamp/pen/NNvBQW)
