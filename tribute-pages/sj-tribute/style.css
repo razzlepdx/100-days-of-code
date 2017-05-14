@@ -1,0 +1,26 @@
+body {
+	background-color: lightgray;
+}
+.jumbotron {
+	margin-top: 20px;
+	background-color: white;
+	border: 6px solid #292929;
+}	
+hr {
+    border: 0;
+    height: 1px;
+    max-width: 500px;
+    background: #292929;
+    background-image: linear-gradient(to right, #ccc, #292929, #ccc);
+}
+ 
+h6 {
+
+}
+.img-container {
+ 	margin: auto;
+ 	max-width:580px;
+ 	color: #333;
+ 	border: 5px double #292929;
+ 	padding: 3px;
+ }
