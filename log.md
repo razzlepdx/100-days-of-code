@@ -20,6 +20,15 @@
 
 [New Shirley Jackson Tribute Page](https://github.com/razzlepdx/100-days-of-code/tree/master/tribute-pages/sj-tribute)
 
+### Day 3: May 14, 2017 
+
+**Today's Progress:** I participated in Write the Docs conference, and  successfully wrote a vigenere cipher algorithm in python.
+
+**Thoughts:** The conference writing day was a valuable experience, as I got to hear about a lot of documentation projects and workflows. I was even able to assist with some changes to the reference pages for Mozilla Developer Network. I can't post my vigenere code until after my class is over, but I'm also ecstatic to have this working! 
+
+**Link to work:** 
+[Tweet Update](https://twitter.com/PagesFlutter/status/863979303196688384)
+
 ### Template
 ### Day 0: May XX, 2017 
 
