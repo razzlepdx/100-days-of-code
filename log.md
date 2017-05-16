@@ -29,6 +29,16 @@
 **Link to work:** 
 [Tweet Update](https://twitter.com/PagesFlutter/status/863979303196688384)
 
+### Day 4: May 15, 2017 
+
+**Today's Progress:**Today I attended Write the Docs conference and completed an algorithm challenge in Javascript.
+
+**Thoughts:**More thoughts coming tomorrow, I'm pretty exhausted for now. Learned a LOT today!
+
+**Link to work:** 
+[Write the Docs](http://www.writethedocs.org/conf/na/2017/)
+[Algorithm Practice](https://github.com/razzlepdx/100-days-of-code/tree/master/algo-practice)
+
 ### Template
 ### Day 0: May XX, 2017 
 
