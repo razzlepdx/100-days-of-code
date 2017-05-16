@@ -39,6 +39,16 @@
 [Write the Docs](http://www.writethedocs.org/conf/na/2017/)
 [Algorithm Practice](https://github.com/razzlepdx/100-days-of-code/tree/master/algo-practice)
 
+### Day 5: May 16, 2017 
+
+**Today's Progress:** Attended day 2 of Write the Docs North America, and solved the same CodeWars algorithm in Javascript and Python
+
+**Thoughts:**My inner introvert is exhausted by a large group like a conference, but the people attending Write the Docs have been wonderful and welcoming.  If I ever find myself doing extenssive documentation or technical writing, I will definitely be back. I'm learning a lot about resources and the importance of content and structure in documentation. As far as algorithm practice goes, today was fine, but I'm looking forward to getting into practice projects again tomorrow. 
+
+**Link to work:** 
+[Algorithm Practice](https://github.com/razzlepdx/100-days-of-code/tree/master/algo-practice)
+[Write the Docs](http://www.writethedocs.org/conf/na/2017/)
+
 ### Template
 ### Day 0: May XX, 2017 
 
