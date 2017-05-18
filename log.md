@@ -41,13 +41,22 @@
 
 ### Day 5: May 16, 2017 
 
-**Today's Progress:** Attended day 2 of Write the Docs North America, and solved the same CodeWars algorithm in Javascript and Python
+**Today's Progress:** Attended day 2 of Write the Docs North America, and solved a CodeWars algorithm in Javascript and Python
 
 **Thoughts:**My inner introvert is exhausted by a large group like a conference, but the people attending Write the Docs have been wonderful and welcoming.  If I ever find myself doing extenssive documentation or technical writing, I will definitely be back. I'm learning a lot about resources and the importance of content and structure in documentation. As far as algorithm practice goes, today was fine, but I'm looking forward to getting into practice projects again tomorrow. 
 
 **Link to work:** 
 [Algorithm Practice](https://github.com/razzlepdx/100-days-of-code/tree/master/algo-practice)
 [Write the Docs](http://www.writethedocs.org/conf/na/2017/)
+
+### Day 6: May 17, 2017 
+
+**Today's Progress:** Today I spent a couple of hours working on this FCC intermediate algorithm called Roman Numeral Converter. I pair programmed with some cohort friends for about an hour, then worked on my own.  I also attended an excellent git/Github workshop sponsored by Women Who Code. 
+
+**Thoughts:** Daily coding practice has really increased my confidence and comfort level re: git and version control.  My algorithm practice was frustrating due to the difficulty of the problem today, but I'm pretty happy to have solved it at last. 
+
+**Link to work:** 
+[Roman Numeral Converter Algorithm](https://github.com/razzlepdx/FCC-Algorithms/tree/master/Intermediate-Algorithms)
 
 ### Template
 ### Day 0: May XX, 2017 
