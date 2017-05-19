@@ -58,6 +58,16 @@
 **Link to work:** 
 [Roman Numeral Converter Algorithm](https://github.com/razzlepdx/FCC-Algorithms/tree/master/Intermediate-Algorithms)
 
+### Day 7: May 18, 2017 
+
+**Today's Progress:** Today I got back to math practice with Khan Academy and worked on python lessons for class.  The in-class studio projects were both about classes. 
+
+**Thoughts:** I think I could enjoy object-oriented programming - there are some things about that structure type that really make sense to me.  I will be looking for more ways to practice soon.
+
+**Link to work:** 
+[baseballPlayer Class](https://github.com/razzlepdx/LC101-pdx2017/tree/master/studios)
+
+
 ### Template
 ### Day 0: May XX, 2017 
 
