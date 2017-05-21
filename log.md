@@ -67,6 +67,14 @@
 **Link to work:** 
 [baseballPlayer Class](https://github.com/razzlepdx/LC101-pdx2017/tree/master/studios)
 
+### Day 8: May 20, 2017 
+
+**Today's Progress:**Today I did a little bit of work and spent some time on a codewars algorithm, completed day 8 of JavaScript30, and did 30 minutes of math practice on Khan Academy.   
+
+**Thoughts:**Took a weekend to rest, and feel much better now.  I'll be ready to jump back into things tomorrow!   
+
+**Link to work:** 
+[JS30 Github repo](https://github.com/razzlepdx/JavaScript30)
 
 ### Template
 ### Day 0: May XX, 2017 
