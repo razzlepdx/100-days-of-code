@@ -71,10 +71,20 @@
 
 **Today's Progress:**Today I did a little bit of work and spent some time on a codewars algorithm, completed day 8 of JavaScript30, and did 30 minutes of math practice on Khan Academy.   
 
-**Thoughts:**Took a weekend to rest, and feel much better now.  I'll be ready to jump back into things tomorrow!   
+**Thoughts:**Took a weekend to rest, and feel much better now.  I'll be ready to jump back into things on Monday!   
 
 **Link to work:** 
 [JS30 Github repo](https://github.com/razzlepdx/JavaScript30)
+
+### Day 9: May 22, 2017 
+
+**Today's Progress:** Prepped for class, read a chapter of YDKJS and worked on/helped with final assignments for unit 1 of LC101 today.
+
+**Thoughts:** I was less productive than usual for a Monday, thanks to this heat wave!  Tomorrow I will be looking for a cooler study spot.  I will be a little sad to finish the python unit in LC101, it has been really enjoyable.  I can't upload any of my work from today until the assignment deadline has passed.   
+
+**Link to work:** 
+
+[Tweet for May 22](https://twitter.com/PagesFlutter/status/866893578231873536)
 
 ### Template
 ### Day 0: May XX, 2017 
