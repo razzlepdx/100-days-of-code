@@ -69,9 +69,9 @@
 
 ### Day 8: May 20, 2017 
 
-**Today's Progress:**Today I did a little bit of work and spent some time on a codewars algorithm, completed day 8 of JavaScript30, and did 30 minutes of math practice on Khan Academy.   
+**Today's Progress:**Today I did a little bit of work and spent some time on a codewars algorithm, completed day 8 of JavaScript30, and did 30 minutes of math practice on Khan Academy. 
 
-**Thoughts:**Took a weekend to rest, and feel much better now.  I'll be ready to jump back into things on Monday!   
+**Thoughts:**Took a weekend to rest, and feel much better now.  I'll be ready to jump back into things on Monday! 
 
 **Link to work:** 
 [JS30 Github repo](https://github.com/razzlepdx/JavaScript30)
@@ -80,11 +80,36 @@
 
 **Today's Progress:** Prepped for class, read a chapter of YDKJS and worked on/helped with final assignments for unit 1 of LC101 today.
 
-**Thoughts:** I was less productive than usual for a Monday, thanks to this heat wave!  Tomorrow I will be looking for a cooler study spot.  I will be a little sad to finish the python unit in LC101, it has been really enjoyable.  I can't upload any of my work from today until the assignment deadline has passed.   
+**Thoughts:** I was less productive than usual for a Monday, thanks to this heat wave!  Tomorrow I will be looking for a cooler study spot.  I will be a little sad to finish the python unit in LC101, it has been really enjoyable.  I can't upload any of my work from today until the assignment deadline has passed. 
 
 **Link to work:** 
 
 [Tweet for May 22](https://twitter.com/PagesFlutter/status/866893578231873536)
+
+### Day 10: May 23, 2017 
+**Today's Progress:** Today I started reviewing the first few days of JS30, did 30 minutes of math practice with Khan Academy, and made a little progress on my Web Developer Bootcamp course. 
+
+**Thoughts:** I found it hard to focus again today, going to try to sleep more and see if that helps my productivity tomorrow.
+
+**Link to work:** 
+[JS30 repo](https://github.com/razzlepdx/JavaScript30)
+
+### Day 11: May 24, 2017 
+**Today's Progress:** refactored my final python assignment for LC101 today, based on feedback from my teaching fellow, and attended a study group to help others finish up their crypto assignment
+
+**Thoughts:** It was good to get some feedback on this assignment, and I'm excited to post the updated code to my LC101 repo once the due date has passed (June 1).
+
+**Link to work:** 
+[Link coming soon](#)
+
+### Day 12: May 25, 2017 
+**Today's Progress:** Today I worked on updating my habitica test environment, and familiarizing myself with some of the files so that I can work on the issue my group has been assigned.  Tonight is the last class for unit 1 of LC101! 
+
+**Thoughts:** It is a little overwhelming looking at the code for such a large application, but I'm feeling much better now that my test environment is ready to go.  I have some ideas of what I need to do to fix this problem, so once I find the appropriate files, it shouldn't be too hard to get started!  So far this week has been a failure at practicing HTML/CSS, so I will try to push even harder to work on that this weekend.
+
+**Link to work:** 
+[habitica repo](https://github.com/razzlepdx/habitica)
+[specific issue my group is working on] (https://github.com/HabitRPG/habitica/issues/8677)
 
 ### Template
 ### Day 0: May XX, 2017 
