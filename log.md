@@ -111,6 +111,16 @@
 [habitica repo](https://github.com/razzlepdx/habitica)
 [specific issue my group is working on] (https://github.com/HabitRPG/habitica/issues/8677)
 
+### Day 13: May 26, 2017 
+
+**Today's Progress:** Today I reviewed day 6 and completed day 9 of JS30, practiced math for 30 minutes, and completed a big chunk of Colt Steele's Complete Web Developer Bootcamp course. 
+
+**Thoughts:** So far in the WDB class the JS integrations into HTML documents have been pretty minimal and (dare I say it?) kind of lame.  I'm looking forward to getting to a point when I can get user input without utilizing prompt() and communicate changes without relying on alert() and console.log().  JS30 progress is going well, but I do wish I knew more about ES6 before starting these projects.  I'm thinking about going through another Udemy class on ES6/7 when I finish WDB.
+
+**Link to work:** 
+[JS30 repo](https://github.com/razzlepdx/JavaScript30)
+[WDB Course](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Template
 ### Day 0: May XX, 2017 
 
