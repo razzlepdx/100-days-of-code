@@ -121,6 +121,16 @@
 [JS30 repo](https://github.com/razzlepdx/JavaScript30)
 [WDB Course](https://www.udemy.com/the-web-developer-bootcamp/)
 
+### Day 14: May 27, 2017 
+
+**Today's Progress:** Late update! Yesterday I completed day 10 of JS30, and a big chunk of WDB related to JS (finished at video 130). 
+
+**Thoughts:** WDB has been mostly review for me, but I do like getting into the habit of creating a html file and then attaching my .js file for easier debugging/testing in the console. The JS30 task for day 10, adding a shift click option to select multiple checkboxes, seems like it could be used in a lot of different ways, so I'm going to bookmark that one for future projects.
+
+**Link to work:**
+[JS30 repo](https://github.com/razzlepdx/JavaScript30)
+[WDB Course](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Template
 ### Day 0: May XX, 2017 
 
