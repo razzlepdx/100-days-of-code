@@ -131,8 +131,121 @@
 [JS30 repo](https://github.com/razzlepdx/JavaScript30)
 [WDB Course](https://www.udemy.com/the-web-developer-bootcamp/)
 
+### Day 15: May 28, 2017 
+
+**Today's Progress:**Today I helped a fellow LaunchCoder by answering questions about the final assignment, met with  @jjprevite to work on our Habitica pull request, and spent the rest of the day working through WDB.
+
+**Thoughts:** It's really exciting to see some progress on the Habitica project! I was a little nervous that my current skills/knowledge weren't up to the task, but Joe and I did it! Feeling accomplished and like I know how to approach things next time.  I'm really starting to enjoy the WDB course as well - spending more focused time on it this week will be a good thing.
+
+**Link to work:**
+[WDB Course](https://www.udemy.com/the-web-developer-bootcamp/)
+[First Habitica Commit!](https://github.com/razzlepdx/habitica/commit/4f6bd8f69af7e33f0635b6084e36c41812f2546a#diff-35a05719212b9cc4f0635bf70868a3e8)
+
+### Day 16: May 30, 2017 
+
+**Today's Progress:** Today I met with my FCW group for our weekly updates, then pair programmed on our group Habitica issue with Joe from Chingu/FCW.  
+
+**Thoughts:** I wish I had accomplished a little more today, but I feel good about our progress on the Habitica issue!  It was my first time working with a .jade file, so learning how to read it and what we needed to do to make the necessary changes was a great experience. By the end of our session we were able to fix one of the issue requirements (markdown was not rendered in a specific area).
+
+**Link to work:** 
+See link for day 17
+
+### Day 17: May 31, 2017 
+
+**Today's Progress:** I completed all the prep work for the first session of LaunchCode's Unit 2, via Udacity and CodeAcademy.  I also spent about 3 hours on Habitica - deleting and reinstalling my local environment, as well as continuing to work on the group approvals screen.  I may have had a small breakthrough with that, but we will need to see if Habitica likes my changes or not.  
+
+**Thoughts:**  I am getting ready to start a speedrun for building freeCodeCamp projects, so I think this refresher on the front end from LaunchCode will be very timely!  The Habitica problem I was working on had to do with text and button alignment, so it was a great chance for me to practice using the developer tools and adjust the HTML/CSS that way before spending my time writing code and updating the database.  I am hoping to be finished with JS30 soon, at which time I will get started on the dailycssimages challenge.
+
+**Link to work:** 
+[My new Habitica Commit](https://github.com/HabitRPG/habitica/compare/develop...razzlepdx:bug/8677-group-plan-approvals)
+
+### Day 18: June 1, 2017 
+
+**Today's Progress:** Completed lessons 11,13 and 14 of JS30.
+
+**Thoughts:** I am really enjoying completing these projects - it is really helpful to see how a professional organizes and thinks about their code - even though I am not always understanding every step, it's a nice series to follow for the exposure to well-written ES6 alone.
+
+### Day 19: June 2, 2017 
+
+**Today's Progress:** Today I completed day 16 of JS30, and did about 2 hours of Web Developer Bootcamp. 
+
+**Thoughts:** I was able to study at the library for the first time in a while, and it was so nice and really helped me stay focused! I will be coming in more often in the future.
+
+### Day 20: June 4, 2017 
+
+**Today's Progress:** I did a little bit of work yesterday, but not a full hour of code :(. Today I worked mainly on WDB.
+
+**Thoughts:** I'm learning so much from this class! Right now I'm working through the color game project and I am really getting a good handle on event listeners now. Will post a link to my colorgame project when it is finished.
+
+### Day 21: June 5, 2017 
+
+**Today's Progress:** Continued progress on the colorgame and went to LC101.
+
+**Thoughts:** 
+
+**Link to work:** [link text](url)
+
+### Day 22: June 6, 2017 
+
+**Today's Progress:** Today I met with Reuben from FCW to talk about future projects, began lead-planning for the chingu cohorts, and continued work on the colorgame (not too much due to having a migraine).
+
+**Thoughts:** I'm excited to welcome/kick off a new group of Chingus this Friday! The next 5 weeks should be really busy and fun.  FCW stuff is great too - our first pull request was accepted by Habitica and our Speedrun challenge begins this week.  I really should be working on my portfolio site right now :/
+
+### Day 23: June 7, 2017 
+
+**Today's Progress:**  Today I went through a bunch of HTML and CSS exercises on Codecademy for LC101. git 
+
+**Thoughts:** 
+
+**Link to work:** [link text](url)
+
+### Day 24: June 8, 2017 
+
+**Today's Progress:** Finished the colorgame project!  Also went to class, practiced with git, and met with Joe and Nedu to plan our first week in the armadillos cohort.
+
+**Thoughts:** Feeling accomplished today!  
+
+**Link to work:** 
+[Colorgame Files](https://github.com/razzlepdx/100-days-of-code/tree/master/colorgame)
+
+### Day 25: June 9, 2017 
+
+**Today's Progress:** Today was the kickoff day for Armadillos cohort! I spent a lot of time in slack welcoming new members and connecting them with other students/links that might be helpful. Progressed in WDB (refactored colorgame and finished JQuery unit) and worked on LC101 homework - setup and worked inside a virtual environment, and used Flask for the first time!
+
+**Thoughts:** Had a lot of fun today! Hoping to finish up my portfolio this weekend.
+
+**Link to work:** 
+[Colorgame Files](https://github.com/razzlepdx/100-days-of-code/tree/master/colorgame)
+
+### Day 26: June 10, 2017 
+
+**Today's Progress:** Continued progress in WDB, and started work on personal portfolio project!
+
+**Thoughts:** Today was a good day! 
+
+**Link to work:** 
+- links coming soon!
+
+### Day 27: June 11, 2017 
+
+**Today's Progress:** Did just a little more work on the portfolio today, and also some reading for LC101. 
+
+**Thoughts:** The portfolio is not going as smoothly as I'd hoped.  Will need to work on it some more tomorrow.
+
+### Day 28: June 12, 2017 
+
+**Today's Progress:** Finished prep work for class, set up some polls in the cohorts using /polly on Slack, and started a Flask app in the studio tonight.
+
+**Thoughts:** I wasn't feeling great today, so I had to sleep for a little bit instead of finishing up my portfolio.  Will have a first draft completed by tomorrow, I hope. I am excited about the Flask app we are starting to build in LC101, however!
+
+**Link to work:** 
+
+[Flicklist App](https://github.com/razzlepdx/flicklist-flask)
+
 ### Template
-### Day 0: May XX, 2017 
+
+
+### Day 0: June XX, 2017 
 
 **Today's Progress:** 
 
