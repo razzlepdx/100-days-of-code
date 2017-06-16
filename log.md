@@ -181,10 +181,6 @@ See link for day 17
 
 **Today's Progress:** Continued progress on the colorgame and went to LC101.
 
-**Thoughts:** 
-
-**Link to work:** [link text](url)
-
 ### Day 22: June 6, 2017 
 
 **Today's Progress:** Today I met with Reuben from FCW to talk about future projects, began lead-planning for the chingu cohorts, and continued work on the colorgame (not too much due to having a migraine).
@@ -193,11 +189,8 @@ See link for day 17
 
 ### Day 23: June 7, 2017 
 
-**Today's Progress:**  Today I went through a bunch of HTML and CSS exercises on Codecademy for LC101. git 
+**Today's Progress:**  Today I went through a bunch of HTML and CSS exercises on Codecademy for LC101. There was some git review too!
 
-**Thoughts:** 
-
-**Link to work:** [link text](url)
 
 ### Day 24: June 8, 2017 
 
@@ -241,6 +234,27 @@ See link for day 17
 **Link to work:** 
 
 [Flicklist App](https://github.com/razzlepdx/flicklist-flask)
+
+### Day 29: June 13, 2017 
+
+**Today's Progress:** Today I went through FCC exercises about JSON and APIs to prepare for the intermediate front-end assignments. I also worked some more on the LC101 assignment "HTML-me-something" and my portfolio.
+
+**Thoughts:** I feel like I'm learning a lot more from the HTML me something assignment than I expected - they are forcing me to think about the semantic tags in HTML5, and it's actually been really helpful to me in terms of coming up with content and structure!  
+
+### Day 30: June 14, 2017 
+
+**Today's Progress:** Today I worked on adding a form element to a small flask app.  Also did some more LC101 reading, worked on getting a 100daysofcode challenge set up in #chingu-armadillos, and started up a discussion about what kinds of weekly challenges the armadillos would like to see.  I have most of the work completed on my HTML-me-something project too.  Met with FCWs to plan next steps for the speedrun and check in re: new cohorts.  
+
+**Thoughts:** Not too shabby for a Wednesday!  I even did laundry and vacuumed my house, hahaha.  
+
+### Day 31: June 15, 2017 
+
+**Today's Progress:** Completed my HTML-me-Something project for LC101.  I also continued work on the movie list Flask app we are working on in class.
+
+**Thoughts:** I wanted to add more style details to the HTML-me-something project, but I'm really happy with the content, and feel like I understand the concept of semantic HTML much better now!
+
+**Link to work:** 
+[LC101 Project](https://razzlepdx.github.io/html-me-something/)
 
 ### Template
 
