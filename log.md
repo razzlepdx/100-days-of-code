@@ -256,6 +256,16 @@ See link for day 17
 **Link to work:** 
 [LC101 Project](https://razzlepdx.github.io/html-me-something/)
 
+### Day 32: June 16, 2017 
+
+**Today's Progress:** Worked with Flask again for class, learned about client- vs server-side validation, HTML escaping, and redirects.  Also started some designs for the random quote machine and got some of the logic in place.  
+
+**Thoughts:** I'm learning a lot about server requests in class right now, and it's great!  I'm also excited that the random quote machine project seems to be coming together faster than I expected.
+
+**Link to work:** 
+[Flask practice](https://github.com/razzlepdx/hello-flask/tree/form-validation)
+[RQM coming soon!](#)
+
 ### Template
 
 
