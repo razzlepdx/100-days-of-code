@@ -1,0 +1,45 @@
+/*spacing test*/
+* {
+	/*border: 2px solid orange;*/
+}
+body {
+	background-color:lightblue;
+	font-family: Garamond;
+	text-align: center;
+}
+header {
+}
+main {
+	margin: 0 auto;
+	max-width: 80%;
+	background-color: white;
+}
+hr{
+	max-width:65rem;
+	border-top: 1px solid gray;
+	color: lightgray;
+	height: 2px;
+}
+section {
+	margin: 3rem auto;
+}
+button {
+	background-color: white;
+	font-family: Helvetica;
+	text-transform: uppercase;
+	color:lightblue;
+	padding: 5px;
+	border-radius: 5%;
+	border: 2px solid #dcdcdc;
+}
+#newquote {
+	margin: 3rem auto;
+}
+#shareit {
+	margin: 3rem auto;
+}
+#shareit .fa {
+	color:lightblue;
+}
+footer {
+}
