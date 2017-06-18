@@ -13,33 +13,42 @@ main {
 	margin: 0 auto;
 	max-width: 80%;
 	background-color: white;
+	border: 2px solid silver;
 }
 hr{
-	max-width:65rem;
+	max-width:40rem;
 	border-top: 1px solid gray;
-	color: lightgray;
-	height: 2px;
+	color: silver;
 }
 section {
 	margin: 3rem auto;
 }
 button {
-	background-color: white;
+	background-color: lightblue;
 	font-family: Helvetica;
 	text-transform: uppercase;
-	color:lightblue;
+	font-weight: 700;
+	color:white;
 	padding: 5px;
 	border-radius: 5%;
-	border: 2px solid #dcdcdc;
+	border: 2px solid silver;
+}
+.hover {
+	background-color: white;
+	color:lightblue;
 }
 #newquote {
-	margin: 3rem auto;
+	margin: 0 auto;
+	padding: 2rem;
 }
 #shareit {
-	margin: 3rem auto;
+	margin: 0 auto;
+	padding: 1.5rem;
+	height: 3rem;
 }
 #shareit .fa {
 	color:lightblue;
+	line-height: 35px;
 }
 footer {
 }
