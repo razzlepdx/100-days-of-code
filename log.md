@@ -266,6 +266,15 @@ See link for day 17
 [Flask practice](https://github.com/razzlepdx/hello-flask/tree/form-validation)
 [RQM coming soon!](#)
 
+### Day 33: June 17, 2017 
+
+**Today's Progress:** Went to ACT-W conference and worked some more on RQM.   
+
+**Thoughts:** Learned a lot at the conference today!  Met some great people as well.
+
+**Link to work:** 
+[in progress - RQM](https://github.com/razzlepdx/100-days-of-code/tree/master/RQM)
+
 ### Template
 
 
