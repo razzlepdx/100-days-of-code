@@ -7,13 +7,12 @@ body {
 	font-family: Garamond;
 	text-align: center;
 }
-header {
-}
 main {
-	margin: 0 auto;
+	margin: 2rem auto;
 	max-width: 80%;
 	background-color: white;
 	border: 2px solid silver;
+	border-radius: 10px;
 }
 hr{
 	max-width:40rem;
@@ -33,9 +32,23 @@ button {
 	border-radius: 5%;
 	border: 2px solid silver;
 }
-.hover {
+button:active {
+	outline: none;
+}
+button: focus {
+	outline: none;
+}
+.darken {
+	background-color:lightgray;
+	color: white;
+	cursor: pointer;
+}
+.clicked {
 	background-color: white;
 	color:lightblue;
+}
+#displayit .fa {
+	color: silver;
 }
 #newquote {
 	margin: 0 auto;
