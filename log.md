@@ -275,6 +275,16 @@ See link for day 17
 **Link to work:** 
 [in progress - RQM](https://github.com/razzlepdx/100-days-of-code/tree/master/RQM)
 
+### Day 34: June 18, 2017 
+
+**Today's Progress:** Completed the Web Caesar project for LC101 - a flask app that takes user input and encrypts it using a caesar cypher.  I also went through the CSS images class created by coding artist to prepare for the daily css images challnege.
+
+**Thoughts:** I'm excited to get started on a new challenge, and it feels good to be ahead of the game on my LC101 homework.
+
+**Link to work:** 
+[Web Caesar](https://github.com/razzlepdx/web-caesar)
+[CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+
 ### Template
 
 
