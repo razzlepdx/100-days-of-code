@@ -285,6 +285,16 @@ See link for day 17
 [Web Caesar](https://github.com/razzlepdx/web-caesar)
 [CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
 
+### Day 35: June 19, 2017 
+
+**Today's Progress:** Today I finished the CSS images course, worked some more on my random quote machine, and went to LC101 to continue learning about Flask and client vs. server side validation.  I also applied for a scholarship to a programming retreat weekend focusing on building projects for non-profits. 
+
+**Thoughts:** I'm excited to get started on the CSS images challenge, and getting closer to completed on the random quote machine!  Class is going really well.
+
+**Link to work:** 
+[in progress - RQM](https://github.com/razzlepdx/100-days-of-code/tree/master/RQM)
+[Flicklist Update](https://github.com/razzlepdx/flicklist-flask/blob/studio3/main.py)
+
 ### Template
 
 
