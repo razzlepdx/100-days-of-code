@@ -285,13 +285,15 @@ See link for day 17
 [Web Caesar](https://github.com/razzlepdx/web-caesar)
 [CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
 
-### Template
-
-
-### Day 0: June XX, 2017 
+### Day : June XX, 2017 
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Link to work:** [link text](url)
+
+
+### Template
+
+
