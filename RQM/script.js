@@ -1,38 +1,3 @@
-//array of possible quotes
-//==============================
-var quotes = [
-  {quote: "ALWAYS",
-  source: "professor severus snape"},
-  {quote: "YER A WIZARD, HARRY",
-  source: "hagrid"},
-  {quote: "avada kedavra",
-  source: "HE WHO MUST NOT BE NAMED"},
-  {quote: "Me fail english, thats unpossible!",
-  source: "Ralph Riggum"},
-  {quote: "I typed your symptom into the thing up here, and it says you could have network connectivity problems. ",
-  source: "Andy Dywer"},
-  {quote: "Be Prepared!",
-  source: "Scar"},
-  {quote: "He looka like a man",
-  source: "Ms Swan"},
-  {quote: "Cool Prius!",
-  source: "Noone ever"},
-  {quote: "I have a dream today",
-  source: "Dr. Martin Luther King Jr"},
-  {quote: "Hello",
-  source: "Benjamin Franklin (Probably)"},
-  {quote: "Nope",
-  source: "Chuck Testa"},
-  {quote: "Ain't nobody got time for that",
-  source: "Sweet Brown"},
-  {quote: "I've got greens, beans, potatoes, tomatoes, lambs, rams, hogs, dogs, chickens, turkeys... You name it!",
-  source: "Shirley Caesar"},
-  {quote: "Who is you?",
-  source: "Rachel EB Wilson"},
-  {quote: "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn",
-  source: "Whispers"}
-];
-
 // page element selectors
 // =============================== 
 var button = document.querySelector('button');
@@ -40,6 +5,7 @@ var displayArea = document.querySelectorAll('#displayit .fa');
 var quoteDisplay = document.getElementById('quoteDisplay');
 var authorDisplay = document.getElementById('authorDisplay');
 var tweetButton = document.querySelector('#shareit i');
+var currentInd = 0;
 
 //event listeners
 //===============================
@@ -62,13 +28,19 @@ tweetButton.addEventListener('mouseup', sizeup);
 //main button-click response: display new quote
 function displayNew(){
 	var ind = newIndex();
-	quoteDisplay.textContent = quotes[ind].quote;
+  quoteDisplay.textContent = quotes[ind].quote;
   authorDisplay.textContent = "- " + quotes[ind].source;
 }
 
 //pick random index for new quotes
+//check and assign currentInd to prevent duplicates
 function newIndex () {
-  return Math.floor(Math.random() * quotes.length);
+  var ind = Math.floor(Math.random() * quotes.length);
+    if (ind === currentInd) {
+      ind = (ind + 1) % quotes.length;
+    }
+    currentInd = ind;
+  return ind;
 }
 
 //tweet current quote
