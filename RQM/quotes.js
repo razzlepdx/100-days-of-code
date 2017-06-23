@@ -32,3 +32,20 @@ var quotes = [
   {quote: "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn",
   source: "Whispers"}
 ];
+
+//array of possible colors
+//=============================
+var colors = [
+  "lightblue",
+  "#6a32a3",
+  "#0bc4a7",
+  "#e66f4b",
+  "#b0b000",
+  "#b5c2ec",
+  "#47885e",
+  "#efee3a",
+  "#ca1001",
+  "#535a9a",
+  "#2a9e2c",
+  "#deeade"
+];

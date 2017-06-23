@@ -5,7 +5,9 @@ var displayArea = document.querySelectorAll('#displayit .fa');
 var quoteDisplay = document.getElementById('quoteDisplay');
 var authorDisplay = document.getElementById('authorDisplay');
 var tweetButton = document.querySelector('#shareit i');
-var currentInd = 0;
+var body = document.querySelector('body');
+var currentInd;
+var colorInd = 0;
 
 //event listeners
 //===============================
@@ -25,11 +27,26 @@ tweetButton.addEventListener('mouseup', sizeup);
 //functions
 //================================
 
-//main button-click response: display new quote
-function displayNew(){
+//button click and hover effects
+function darken() {
+  this.classList.toggle("darken");
+}
+function clicked() {
+  this.classList.toggle("clicked");
+}
+function sizeup() {
+  this.classList.toggle('fa-3x');
+  this.classList.toggle('fa-4x');
+}
+
+//main button-click response: update quote/colors
+function displayNew() {
 	var ind = newIndex();
+  //update quote
   quoteDisplay.textContent = quotes[ind].quote;
   authorDisplay.textContent = "- " + quotes[ind].source;
+  //update colors
+  newColors();
 }
 
 //pick random index for new quotes
@@ -43,6 +60,14 @@ function newIndex () {
   return ind;
 }
 
+//update page colors
+function newColors() {
+  colorInd = (colorInd + 1) % colors.length;
+  body.style.backgroundColor = colors[colorInd];
+  button.style.backgroundColor = colors[colorInd];
+  tweetButton.style.color = colors[colorInd];
+}
+
 //tweet current quote
 function tweetQuote() { 
   var url = "https://twitter.com/intent/tweet";
@@ -52,14 +77,3 @@ function tweetQuote() {
   window.open(url + "?text=" + text + ";hashtags=" + hashtags, "width=500,heigth=300");
 }
 
-//button click and hover effects
-function darken() {
-  this.classList.toggle("darken");
-}
-function clicked() {
-	this.classList.toggle("clicked");
-}
-function sizeup() {
-	this.classList.toggle('fa-3x');
-	this.classList.toggle('fa-4x');
-}

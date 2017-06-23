@@ -1,10 +1,9 @@
-/*spacing test*/
 * {
-	/*border: 2px solid orange;*/
+	font-family: 'Raleway', sans-serif;
 }
 body {
-	background-color:lightblue;
-	font-family: Garamond;
+	background:lightblue;
+	font-size: 1.5rem;
 	text-align: center;
 }
 main {
@@ -12,7 +11,11 @@ main {
 	max-width: 80%;
 	background-color: white;
 	border: 2px solid silver;
-	border-radius: 10px;
+	border-radius: 20px;
+}
+h3 {
+	font-style: italic;
+	font-size: 2rem;
 }
 hr{
 	max-width:40rem;
@@ -24,16 +27,14 @@ section {
 }
 button {
 	background-color: lightblue;
-	font-family: Helvetica;
 	text-transform: uppercase;
 	font-weight: 700;
 	color:white;
-	padding: 5px;
-	border-radius: 5%;
+	padding: 15px;
+	border-radius: 15px;
 	border: 2px solid silver;
 	outline-style:none;
 	box-shadow:none;
-	/*border-color:transparent;*/
 }
 button:active {
 	outline: none;
@@ -41,14 +42,14 @@ button:active {
 button: focus {
 	outline: none;
 }
-.darken {
+.darken:hover {
 	background-color:lightgray;
 	color: white;
 	cursor: pointer;
 }
 .clicked {
-	background-color: white;
-	color:lightblue;
+	color:white;
+	font-weight: 700;
 }
 #displayit .fa {
 	color: silver;
@@ -59,7 +60,7 @@ button: focus {
 }
 #shareit {
 	margin: 0 auto;
-	padding: 1.5rem;
+	padding: 1.75rem;
 	height: 3rem;
 }
 #shareit .fa {
@@ -67,4 +68,5 @@ button: focus {
 	line-height: 35px;
 }
 footer {
+	font-size: 1rem;
 }
