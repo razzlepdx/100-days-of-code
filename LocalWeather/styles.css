@@ -1,0 +1,24 @@
+body {
+	background: lightgreen;
+}
+
+h1, h5{
+	text-align: center; 
+}
+section {
+	background-color: white;
+	display: inline-block;
+	height: 30%;
+	width: 30%;
+	margin: 3% 0;
+	/*border: 1px solid black;*/
+
+}
+
+#icon {
+	margin-left: 5%;
+}
+
+form {
+	text-align: center;
+}
