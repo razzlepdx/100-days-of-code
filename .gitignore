@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# detached fork
+100-days-of-code.git/
