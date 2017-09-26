@@ -1,3 +1,10 @@
+//HTML Element Selectors
+//=============================
+var mainTemp = document.querySelector('#mainTemp');
+var maxTemp = document.querySelector('#maxTemp');
+var minTemp = document.querySelector('#minTemp');
+var icon = document.querySelector('#icon');
+var description = document.querySelector('#description');
 var parsedData;
 
 var request = require('request');

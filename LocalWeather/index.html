@@ -2,20 +2,23 @@
 <head>
 	<title>Show the Local Weather</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700i" rel="stylesheet">
 </head>
 <body>
 	<h1>Today's Weather Forecast:</h1>
-	<section id="icon"><h1>Weather Icon Here</h1></section>
-	<section id="temp">
-		<h1>Current temp in Degrees</h1>
-		<h5>Min/Max in Degrees</h5>
-	</section>
-	<section id="description"><h1>Sunny and Clear</h1></section>
 	<form>
-		<label>Display in:</label> 
-		<button>F</button>
-		<button>C</button>
+		<label>Show me weather in:</label> 
+		<button>&deg; C</button>
+		<button>&deg; F</button>
 	</form>
+	<section ><h1 id="icon"><i class="fa fa-sun-o" aria-hidden="true"></i></h1></section>
+	<section id="temp">
+		<h1><span id="mainTemp">74</span> &deg;<span class="tempType">F</span></h1>
+		<h5>Min/Max: <span id="minTemp">62</span>/<span id="maxTemp">84</span></h5>
+	</section>
+	<section><h1 id="description">Sunny and Clear</h1></section>
+
 <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
