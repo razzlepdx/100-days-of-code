@@ -32,7 +32,6 @@
 **Link to work:** [Grading Student Algo](https://github.com/razzlepdx/FCC-Algorithms/tree/master/hackerrank-algos)
 
 
-
 ### Template
 ### Day xx: September XX, 2017 
 
