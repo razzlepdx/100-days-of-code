@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 06: September 28, 2017 
+
+**Today's Progress:** Read 2 chapters of Grokking Algorithms, and went to class to get started on group projects.  
+
+**Thoughts:** Excited to start building an app that connects non-profits with volunteers.
+
 ### Day 5: September 27, 2017 
 
 **Today's Progress:** Worked on Khan Academy for 1 hour today.  Completed the RNA-Transcription problem in javascript and got a start on simple-cipher. Read the introduction to Eloquent JS.  Read Grokking Algorithms and implemented quicksort in python.  Created a repo on Github to hold my developer dashboard!
