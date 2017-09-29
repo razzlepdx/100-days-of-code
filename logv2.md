@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 07: September 29, 2017 
+
+**Today's Progress:** Setting up my new (temporary) MacBook - excited to learn how to program/do things outside of windows!  
+
+**Thoughts:** This is a test to see if I've set up github and VSCode correctly.  actual log is coming soon!
+
+**Link to work:** [link text](url)
+
 ### Day 06: September 28, 2017 
 
 **Today's Progress:** Read 2 chapters of Grokking Algorithms, and went to class to get started on group projects.  
