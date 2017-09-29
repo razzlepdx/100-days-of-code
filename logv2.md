@@ -4,7 +4,7 @@
 
 **Today's Progress:** Setting up my new (temporary) MacBook - excited to learn how to program/do things outside of windows!  
 
-**Thoughts:** This is a test to see if I've set up github and VSCode correctly.  actual log is coming soon!
+**Thoughts:** This is a test to see if I've set up github and VSCode correctly.  
 
 **Link to work:** [link text](url)
 
