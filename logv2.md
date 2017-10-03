@@ -1,12 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 10: October 2, 2017 
+
+**Today's Progress:** worked on Voluntr with group from class, and went to LC101 for a JS overview.  Did 15 minutes of Khan Academy to make up for missing the last couple of days.  
+
+**Thoughts:** Getting excited for this project!  
+
+**Link to work:** [Voluntr](https://github.com/hendricksonsarahl/voluntr/issues)
+
+### Day 09: October 1, 2017 
+
+**Today's Progress:** wrote up User Stories for Voluntr app.  Reviewed Eloquent JS.  
+
+**Thoughts:** Not enough time for coding!
+
+### Day 08: September 30, 2017 
+
+**Today's Progress:** Spent some time brainstorming for my Volunteer app project.  Did a few more python algorithms on Hackerrank.
+
+**Thoughts:** Had limited time today, but did the best I could.
+
+
 ### Day 07: September 29, 2017 
 
-**Today's Progress:** Setting up my new (temporary) MacBook - excited to learn how to program/do things outside of windows!  
+**Today's Progress:** Setting up my new (temporary) MacBook - excited to learn how to program/do things outside of windows!  Actual update: Read ch.1 of Eloquent js.  Practiced math for 30 minutes on Khan academy.  Worked on python algorithms on HackerRank.    
 
-**Thoughts:** This is a test to see if I've set up github and VSCode correctly.  
+**Thoughts:** Excited about possibilities on this new computer.s
 
-**Link to work:** [link text](url)
+**Link to work:** [Eloquent JS - Chapter 1](http://eloquentjavascript.net/01_values.html
 
 ### Day 06: September 28, 2017 
 
@@ -58,7 +79,7 @@
 **Link to work:** [WordPress.tv - Watch recorded WordCamp talks!](https://wordpress.tv/)
 
 ### Template
-### Day xx: September XX, 2017 
+### Day xx: October XX, 2017 
 
 **Today's Progress:** 
 
