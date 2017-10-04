@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: October 3, 2017 
+
+**Today's Progress:** practiced Khan Academy for 45 minutes, reviewed PR for voluntr, and wrote the landing page route for Voluntr.  Also researched MySQL hosting options for after deployment.
+
+**Thoughts:** Distracted by job search today - will code more tomorrow!  Need to get back to algorithms.
+
+**Link to work:** [Voluntr](https://github.com/hendricksonsarahl/voluntr)
+
 ### Day 10: October 2, 2017 
 
 **Today's Progress:** worked on Voluntr with group from class, and went to LC101 for a JS overview.  Did 15 minutes of Khan Academy to make up for missing the last couple of days.  
