@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: October 4, 2017 
+
+**Today's Progress:** 45 min of Khan Academy, reviewed and merged PRs for Voluntr worked on possible issue tracker, wrote placeholders for Voluntr routes.
+
+**Thoughts:** I'm excited that the Voluntr team seems to be productive and working well together!
+
 ### Day 11: October 3, 2017 
 
 **Today's Progress:** practiced Khan Academy for 45 minutes, reviewed PR for voluntr, and wrote the landing page route for Voluntr.  Also researched MySQL hosting options for after deployment.
