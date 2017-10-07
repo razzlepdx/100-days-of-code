@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 14: October 6, 2017 
+
+**Today's Progress:** Signed up for Hacktoberfest, created some sample data for our database testing on Voluntr, and completed the last touches on the route updates.  
+
+**Thoughts:** I had limited time for coding today, but I feel good about my progress!  Also excited that a class project is basically guaranteeing me a free t-shirt and stickers.  
+
+**Link to work:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+### Day 13: October 5, 2017 
+
+**Today's Progress:** Tested Voluntr routes and opened a PR.  Attended a scholarship workshop through Worksource to see about future training.  Went to class and completed our design sprint.  
+
+**Thoughts:** We got positive feedback on our plan so far, so I'm feeling really good about our progress with Voluntr!
+
+**Link to work:** [Voluntr](https://github.com/hendricksonsarahl/voluntr)
+
 ### Day 12: October 4, 2017 
 
 **Today's Progress:** 45 min of Khan Academy, reviewed and merged PRs for Voluntr worked on possible issue tracker, wrote placeholders for Voluntr routes.
