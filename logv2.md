@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day xx: October XX, 2017 
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** [link text](url)
+
+### Day 15: October 7, 2017 
+
+**Today's Progress:** finished reviewing Voluntr PRs, and started researching web scraping as an idea to quickly populate our db with test data.  
+
+**Thoughts:** Using python and Beautiful Soup 4 is a lot simpler than I expected, and I can see how writing scripts like this could make some daily tasks significantly easier!  Looking forward to applying this is other contexts also.
+
+**Link to work:** [Intro to Web Scraping (YouTube)](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=383s)
+
 ### Day 14: October 6, 2017 
 
 **Today's Progress:** Signed up for Hacktoberfest, created some sample data for our database testing on Voluntr, and completed the last touches on the route updates.  
