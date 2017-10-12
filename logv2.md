@@ -1,12 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day xx: October XX, 2017 
+### Day 19: October 11, 2017 
 
-**Today's Progress:** 
+**Today's Progress:** Today I finished the NCRC exam via Worksource, did some more testing research, and got a test branch started for Voluntr.  Also pulled down some python exercises from exercism, and it's been good practice, both for Friday's pair programming session, and to see how the unittest library works in python!
 
-**Thoughts:** 
+**Thoughts:** Still feeling a bit stressed, but looking forward to tomorrow night's class and finally getting this interview process completed!
 
-**Link to work:** [link text](url)
+**Link to work:** [exercism progress](http://exercism.io/razzlepdx)
+
+### Day 18: October 10, 2017 
+
+**Today's Progress:** Worked on linked list algos with FCWs using the LeetCode platform this morning.  Dug into the pytest docs, and filled out some sample test data for Voluntr to work with as we start putting the app together!
+
+**Thoughts:** Starting to feel anxious about my technical screening on Friday, so I'm throwing myself into other assignments in the meantime :)
+
+**Link to work:** [Testing for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/)
+
+### Day 17: October 9, 2017 
+
+**Today's Progress:** Spoke with a bootcamp rep and arranged for technical interview practice on Friday.  Reviewed more Voluntr PRs, and met the team before class to continue brainstorming and talk about next steps.  Class covered testing, met with our TF for an update, and added issues to work on this week.  
+
+**Thoughts:** I'm excited that Voluntr progress seems to be on schedule (maybe even slightly ahead of schedule) so far.  
+
+### Day 16: October 8, 2017 
+
+**Today's Progress:** Worked on web scraping volunteermatch.org - no success, but had fun trying to parse their API calls!  
+
+**Thoughts:** Today was a less 
 
 ### Day 15: October 7, 2017 
 
