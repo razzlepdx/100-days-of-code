@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 22: October 14, 2017 
+
+**Today's Progress:** 30 min. of Khan Academy practice, gave feedback to FCW/Chingu friend Joe about his potential Medium post, and wrote up our testing plan for the Voluntr README.  Also started work on CSV data import into Voluntr.  
+
+**Thoughts:** I feel really happy with what I accomplished today considering all the other life obligations on my plate.  
+
+**Link to work:** [Test Plan PR](https://github.com/hendricksonsarahl/voluntr/pull/60)
+
+### Day 21: October 13, 2017 
+
+**Today's Progress:** I was pretty sick today, but did get a little brainstorming accomplished for Voluntr, did 30 minutes of pair programming/technical screening for admission to Hackbright Academy, and received word that I was accepted into their January cohort!
+
+**Thoughts:** I'm excited about the prospect of attending such an amazing code school!   
+
+**Link to work:** [Hackbright news](https://twitter.com/PagesFlutter/status/919046652207316997)
+
+### Day 20: October 12, 2017 
+
+**Today's Progress:** Today I worked on exercism exercises in python, looked into pytestBDD for implementation in Voluntr, and did 30 minutes of Khan Academy practice before class.  During LC101 we updated our issues in Github and talked about next steps.  
+
+**Thoughts:** I was starting to feel a little overwhelmed by all the pieces we have in motion for Voluntr, but after some discussion with my team, it's not so bad.  Teamwork and communication is key! 
+
 ### Day 19: October 11, 2017 
 
 **Today's Progress:** Today I finished the NCRC exam via Worksource, did some more testing research, and got a test branch started for Voluntr.  Also pulled down some python exercises from exercism, and it's been good practice, both for Friday's pair programming session, and to see how the unittest library works in python!
