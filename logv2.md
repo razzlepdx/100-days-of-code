@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 25: October 17, 2017 
+
+**Today's Progress:** This morning I worked with FCW friends and submitted my final PR about the drop_create route - I think Joe and Reuben are getting close to meeting their Hacktoberfest PR goals too! I created 2 issues for Voluntr on the organization side, and completed one of them - PR is pending.  Now when organizations are signed in, they can see all open volunteer opportunities on their homepage.  
+
+**Thoughts:** Today I learned that code can be executed from inside jinja2 placeholders, and a little more about datetime formatting.  
+
+**Link to work:** [final CSV PR](https://github.com/hendricksonsarahl/voluntr/pull/70)
+[display opportunities PR](https://github.com/hendricksonsarahl/voluntr/pull/80)
+
+### Day 24: October 16, 2017 
+
+**Today's Progress:** Had a few issues with getting the /drop_create route set up, but got an incomplete PR submitted.  Also went to class, learned about algorithms, and had a practice stand-up with the team.    
+
+**Thoughts:** Connecting the csv data with the db was easy once I figured out how to reference files that were several steps/levels away. The datetime object stored with each opportunity was still problematic, but I wanted the sample data to be available to everyone, so I opened a PR to get things started.  
+
+**Link to work:** [PR](https://github.com/hendricksonsarahl/voluntr/pull/65)
+
+### Day 23: October 15, 2017 
+
+**Today's Progress:** Today I completed the CSV import into Voluntr, and did some more reading about how to read files in python.
+
+**Thoughts:** I'm learning a lot of new small skills that haven't come up before in my coding.  Pretty exciting!
+
+**Link to Work:** [PR](https://github.com/hendricksonsarahl/voluntr/pull/62)
+
 ### Day 22: October 14, 2017 
 
 **Today's Progress:** 30 min. of Khan Academy practice, gave feedback to FCW/Chingu friend Joe about his potential Medium post, and wrote up our testing plan for the Voluntr README.  Also started work on CSV data import into Voluntr.  
