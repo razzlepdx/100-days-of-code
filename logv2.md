@@ -1,5 +1,47 @@
 # 100 Days Of Code - Log
 
+### Day 30: October 22, 2017 
+
+**Today's Progress:** Today was mostly a day off, but I did end up adding the version tag to the relevant commit so that our TF could checkout our Voluntr code.  I learned something new and interesting about git!  We got some positive feedback from Wolfgang and also some ideas on things that need to be added to the app.   
+
+**Thoughts:** Today I was a little afraid of adding anything new to the repo, because I knew we would have to send it in as our demo soon.  I did get some new issues created, and tried to be available to my team and to the teaching fellow that is going to look at our code.  
+
+**Link to work:** [Our first release!](https://github.com/hendricksonsarahl/voluntr/releases)
+
+### Day 29: October 21, 2017 
+
+**Today's Progress:** Today I worked with my Voluntr team, resolving small bugs and answering questions about my PR. I made a tiny bug fix and mostly reviewed other PRs.
+
+**Thoughts:** I thought of some new enhancements today that I will try to turn into issues either today or tomorrow to give me something to work on in my next sprint.  
+
+**Link to work:** [date required fix PR](https://github.com/hendricksonsarahl/voluntr/pull/113)
+
+
+### Day 28: October 20, 2017 
+
+**Today's Progress:** Today I worked on making a nicer looking wireframe with Pencil for Portals - to be added to our README.  We talked a little more about git workflows and ways to use our toolsets.  I wrote an agenda for our Portals meeting this weekend.  Then I worked on Voluntr for the rest of the day. I stayed up very late in a flow state, and got my giant PR for the organizations to add opportunities posted around 2 AM.  
+
+**Thoughts:** I woke up with a terrible cold, so most of today was spent on activities that required very little thinking or energy.  I'm really proud of what I was able to accomplish today, despite being sick.
+
+**Link to work:** [org/add route PR](https://github.com/hendricksonsarahl/voluntr/pull/108)
+
+### Day 27: October 19, 2017 
+
+**Today's Progress:** I drew up some wireframes for Portals, then had a long chat with @catsoundsawesome where we tried to really get organized and decide which tools we would be using.  We also talked about the features that we wanted to include in the MVP, as well as settling on a design for the project! It was really good progress.  I did a tiny bit more work on the organization post route for Voluntr, but got caught in some errors, so put it aside to complete my homework for LC101. I wrote a binary search 2 ways: 1 with recursion and 1 with a while loop.  I also reviewed a few PRs that came up during the day and in class for Voluntr.  
+
+**Thoughts:** I didn't push my binary searches to github, but I will by the time this log is sent over.  I'm feeling really good about Voluntr, and getting more and more excited to work on Portals!
+
+**Link to work:** [Binary Search solutions](https://github.com/razzlepdx/LC101-pdx2017/tree/master/Unit%204)
+
+### Day 26: October 18, 2017 
+
+**Today's Progress:** Today I made a few last minute changes to my organization-side PR for Voluntr based on feedback and help from my team.  Special thanks to @RylandBell for the help with formatting!  I also started brainstorming a new project: a chrome extension that allows a user to customize their most-frequently used websites when they open a new tab in Chrome.  Today I created the repo and wrote up a README for the project, heavily based on Voluntr's Readme formatting. We are tentatively calling it Portals to another web, or Portals for short.  
+
+**Thoughts:** I'm excited to get started on another group project with my friend @catsoundsawesome from Chingu!  This chrome extension idea has been rattling around in my head forever, so it will be fun to see how much and how fast I can pick up this new concept in tech. I am also planning to document our progress on this project via Medium articles. which is a new and scary step, but I think it will really help me stay on track with making sure I am progressing week by week.    
+
+**Link to work:** [README PR for Portals project](https://github.com/razzlepdx/portals-to-another-world/pull/1)
+[Voluntr PR for organization homepage](https://github.com/hendricksonsarahl/voluntr/pull/80)
+
 ### Day 25: October 17, 2017 
 
 **Today's Progress:** This morning I worked with FCW friends and submitted my final PR about the drop_create route - I think Joe and Reuben are getting close to meeting their Hacktoberfest PR goals too! I created 2 issues for Voluntr on the organization side, and completed one of them - PR is pending.  Now when organizations are signed in, they can see all open volunteer opportunities on their homepage.  
