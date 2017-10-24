@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 31: October 23, 2017 
+
+**Today's Progress:** Worked on a bug in the Web Bakers app to implement the date formatting function written by Reuben last week.  We created a central file to hold all of our helper functions used in the views. Tonight we had our first sprint retro review and demoed Voluntr to the rest of the class. At the end of class I pair programmed with a partner to refactor some duplicate code in different parts of our application.   
+
+**Thoughts:** Even though I felt really down and sick for most of today, I'm proud of what I got accomplished!  
+
+**Link to work:** [Web Bakers PR](https://github.com/Web-Bakers/web-bakers/pull/31)
+[Voluntr Refactor PR](https://github.com/hendricksonsarahl/voluntr/pull/135)
+
 ### Day 30: October 22, 2017 
 
 **Today's Progress:** Today was mostly a day off, but I did end up adding the version tag to the relevant commit so that our TF could checkout our Voluntr code.  I learned something new and interesting about git!  We got some positive feedback from Wolfgang and also some ideas on things that need to be added to the app.   
