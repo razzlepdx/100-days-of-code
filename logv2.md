@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 35: October 27, 2017 
+
+**Today's Progress:** Pair programmed with Alison today and got the manifest file written up for Portals!  I also added a basic HTML file for us to get started with.  We talked a lot about which options will be best for our needs, and now it's time to start building.   
+
+**Thoughts:** I'm excited to have such a great partner for this project!  
+
+**Link to work:** [Portals progress](https://github.com/razzlepdx/portals-to-another-world/tree/html-start)
+
+### Day 34: October 26, 2017 
+
+**Today's Progress:** I worked on 2 issues for Voluntr today, and went to class where we talked about whiteboarding for interviews.  
+
+**Thoughts:** Right now I am focusing on the org side of the application.  It's been interesting to put myself in the customer's shoes and think about which options and features would be best for them.  It's also been surprising at how much their needs differ from volunteers.
+
+**Link to work:** [Voluntr PR](https://github.com/hendricksonsarahl/voluntr/pull/148)
+
+### Day 33: October 25, 2017 
+
+**Today's Progress:** Spent most of today thinking about and working on research for Portals.  Had a great meeting with Alison and decided which tasks we should try to accomplish by our pair programming meeting on Friday.  
+
+**Thoughts:** Chrome has really great documentation and we are learning a lot!  I hope that it is as easy to implement as it seems.
+
+**Link to work:** [Chrome extension docs](https://developer.chrome.com/extensions/getstarted)
+
+### Day 32: October 24, 2017 
+
+**Today's Progress:** Worked with Reuben and Joe on next steps for Web Bakers.  We closed completed issues, clarified existing ones, and added new tasks to the issue tracker. I made a small PR to add new packages to the requirements file in Voluntr. 
+
+**Thoughts:** I need to get some progress made on Portals, but ran out of time today.  
+
+**Link to work:** [Web Bakers Issues](https://github.com/Web-Bakers/web-bakers/issues)
+
 ### Day 31: October 23, 2017 
 
 **Today's Progress:** Worked on a bug in the Web Bakers app to implement the date formatting function written by Reuben last week.  We created a central file to hold all of our helper functions used in the views. Tonight we had our first sprint retro review and demoed Voluntr to the rest of the class. At the end of class I pair programmed with a partner to refactor some duplicate code in different parts of our application.   
